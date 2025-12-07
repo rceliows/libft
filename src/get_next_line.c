@@ -95,4 +95,3 @@ char	*get_next_line(int fd)
 	i = find_newline(buffer);
 	return (extract_and_update(&buffer, i));
 }
-
