@@ -22,6 +22,7 @@ LIBFT_DIR		= $(SRC_DIR)ft_atoi.c \
 				$(SRC_DIR)ft_isascii.c \
 				$(SRC_DIR)ft_isdigit.c \
 				$(SRC_DIR)ft_isprint.c \
+				$(SRC_DIR)ft_isspace.c \
 				$(SRC_DIR)ft_itoa.c \
 				$(SRC_DIR)ft_memchr.c \
 				$(SRC_DIR)ft_memcmp.c \
