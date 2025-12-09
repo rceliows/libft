@@ -69,7 +69,7 @@ int		ft_putnbr(int n);
 int		ft_putptr(void *ptr);
 int		ft_putstr(char *s);
 int		ft_putuns(unsigned int n);
-void	ft_putstr_fd(char *s, int fd);
+void	ft_putstr_fd(const char *s, int fd);
 void	ft_putendl_fd(char *s, int fd);
 void	ft_putnbr_fd(int n, int fd);
 t_list	*ft_lstnew(void *content);
