@@ -15,6 +15,7 @@ AR				= ar rcs
 # Source Files
 LIBFT_DIR		= $(SRC_DIR)ft_atoi.c \
 				$(SRC_DIR)ft_atof.c \
+				$(SRC_DIR)ft_atol.c \
 				$(SRC_DIR)ft_bzero.c \
 				$(SRC_DIR)ft_calloc.c \
 				$(SRC_DIR)ft_isalnum.c \
